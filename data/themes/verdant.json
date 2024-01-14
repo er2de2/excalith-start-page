@@ -1,15 +1,15 @@
 {
 	"name": "Verdant",
-	"backgroundColor": "#DCF0E0",
-	"windowColor": "#CAEBCE",
-	"textColor": "#000000",
-	"black": "#16161e",
-	"red": "#8a384c",
-	"green": "#1d8262",
-	"yellow": "#c7c41a",
-	"blue": "#1d8699",
-	"magenta": "#b35287",
-	"cyan": "#4eb8ba",
-	"white": "#ffffff",
-	"gray": "#66676b"
+	"backgroundColor": "#1C1B1A",
+	"windowColor": "#100F0F",
+	"textColor": "#878580",
+	"black": "#343331",
+	"red": "#AF3029",
+	"green": "#66800B",
+	"yellow": "#AD8301",
+	"blue": "#205EA6",
+	"magenta": "#A02F6F",
+	"cyan": "#24837B",
+	"white": "#DAD8CE",
+	"gray": "#575653"
 }
